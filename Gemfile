@@ -15,7 +15,7 @@ gem "bootsnap",        "1.16.0", require: false
 gem "sqlite3",         ">= 1.6.1"
 gem "concurrent-ruby", "1.3.4"
 gem 'mutex_m', '~> 0.1.0'
-
+gem 'thruster'
 
 
 group :development, :test do
