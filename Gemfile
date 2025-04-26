@@ -16,7 +16,7 @@ gem "sqlite3",         ">= 1.6.1"
 gem "concurrent-ruby", "1.3.4"
 gem 'mutex_m', '~> 0.1.0'
 gem 'thruster'
-
+gem 'solid_queue'
 
 group :development, :test do
   gem 'reline', '0.5.10'
